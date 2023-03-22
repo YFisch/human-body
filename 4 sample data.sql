@@ -1,3 +1,3 @@
---no you can't have the car because last time you got a ticket
+--how do you store body parts that don't have a fixed number
 insert body(bodypart, num)
 select 'hair', 4000
